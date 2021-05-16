@@ -1,0 +1,9 @@
+{
+	"name": "whoaksdf321",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78569191-672e-4243-9728-f9beedf55e14",
+		"tenantId": "78618abc-7005-465f-aacc-16c4e72a22c7"
+	}
+}
